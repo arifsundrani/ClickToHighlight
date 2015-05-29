@@ -1,4 +1,4 @@
 # ClickToHighlight
 ------------------
 * Chrome extension
-* Features incoming (hopefully)
+* Features incoming
