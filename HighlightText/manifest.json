@@ -1,14 +1,14 @@
 {
-  
+
 
   "name": "Click to Highlight",
-  "description": "This extension allows users to highlight text on webpages. I made this for my friend Kenny who asked for this solution.",
+  "description": "This extension allows users to highlight text on webpages. This extension was born from the need to annotate a large web document. I strive to add new features to this extension when I find the time.",
   "version": "1.0",
   "devtools_page":"devtools.html",
-  
+
   "browser_action": {
 	"default_title": "Highlight selected text."
-  },  
+  },
 
   "permissions": [
 	"activeTab"
@@ -23,7 +23,8 @@
 	"scripts": ["background.js"],
 	"persistent": false
   },
+  
 
-  "manifest_version": 2  
+  "manifest_version": 2
 
 }
